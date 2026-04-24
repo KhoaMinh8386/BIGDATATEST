@@ -1,0 +1,5 @@
+pyspark
+pytest
+pytest-spark
+pandas
+numpy
